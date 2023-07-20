@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "title" : "History",
+        "artists" :[
+            "Rich Brian",
+            "88rising"
+        ],
+        "url" : "sadasd",
+        "count" : 0
+    },
+    {
+        "id" : 2,
+        "title" : "Dat Stick",
+        "artists" : [
+            "Rich Brian"
+        ],
+        "url" : "asdassd",
+        "count" : 0
+    },
+    {
+        "id" : 3,
+        "title" : "Final Message",
+        "artists" : [
+            "Phonk"
+        ],
+        "url" : "asdassd",
+        "count" : 0
+    }
+]
