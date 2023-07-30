@@ -6,4 +6,4 @@ const videoSchema = new mongoose.Schema({
   url_video: { type: String, required: true,maxLength: 200 },
 });
 
-module.exports = mongoose.model('Video', videoSchema);
+module.exports = mongoose.model('videos', videoSchema);
