@@ -39,7 +39,6 @@ async function findByVideoId(req, res) {
         }
 
         const comments = await commentService.getCommentByVideoIdService(video_id);
-S
         res.status(200).json(comments);
 
     } catch (error) {
